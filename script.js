@@ -28,5 +28,5 @@ function layeredQuantityPrice(quantity) {
   }
 }
 
-const totalPrice = layeredQuantityPrice(201);
+const totalPrice = layeredQuantityPrice(1365);
 console.log(totalPrice);
